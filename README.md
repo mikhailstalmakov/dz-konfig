@@ -87,3 +87,4 @@ python -m pytest -q
 
 Автор: Стальмаков Михаил (вариант №21)
 "# dz-konfig2" 
+"# dz-konfig2" 
