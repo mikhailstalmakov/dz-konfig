@@ -1,0 +1,12 @@
+<config>
+  <global name="port">
+        <number>8080</number>
+  </global>
+  <global name="workers">
+        <number>4</number>
+  </global>
+  <array>
+    <number>8080</number>
+    <number>4</number>
+  </array>
+</config>

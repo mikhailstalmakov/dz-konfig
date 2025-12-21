@@ -1,0 +1,22 @@
+<config>
+  <global name="pi">
+        <number>3.14</number>
+  </global>
+  <global name="radii">
+        <array>
+            <number>1</number>
+            <number>2</number>
+            <number>3</number>
+            <number>4</number>
+        </array>
+  </global>
+  <array>
+    <number>3.14</number>
+    <array>
+      <number>1</number>
+      <number>2</number>
+      <number>3</number>
+      <number>4</number>
+    </array>
+  </array>
+</config>
